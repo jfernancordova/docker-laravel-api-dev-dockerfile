@@ -1,4 +1,4 @@
-FROM jfernancordova/docker-laravel-api-dev:1.0.1
+FROM jfernancordova/docker-laravel-api-dev:1.0.2
 
 MAINTAINER jfernancordova@gmail.com
 
